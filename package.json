@@ -1,0 +1,20 @@
+{
+  "name": "com.postegames.editorguiextensions",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - EditorGUI Extensions",
+  "description": "Extra tools for creating editors, inspectors, and property drawers in Unity.",
+  "unity": "2022.2",
+  "dependencies": {
+    "com.postegames.typehelper": ""
+  },
+  "keywords": [
+    "gui",
+    "editor",
+    "utility"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  }
+}

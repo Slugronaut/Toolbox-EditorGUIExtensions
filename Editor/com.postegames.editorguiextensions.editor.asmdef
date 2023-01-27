@@ -1,0 +1,18 @@
+{
+    "name": "com.postegames.editorguiextensions.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:777455037b3e6dd47a832372b9042dd6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
