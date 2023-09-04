@@ -3,7 +3,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace Toolbox.Editor
+namespace Peg.Editor
 {
     /// <summary>
     /// Collection of static methods for helping with editor and inspector tools in Unity.

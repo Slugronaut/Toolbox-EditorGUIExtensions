@@ -11,7 +11,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine.Assertions;
 
 
-namespace Toolbox.ToolboxEditor
+namespace Peg.ToolboxEditor
 {
     /// <summary>
     /// Abstract base Editor class that can be derived from for custom editors.
